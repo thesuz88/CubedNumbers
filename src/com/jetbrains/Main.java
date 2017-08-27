@@ -1,6 +1,11 @@
 package com.jetbrains;
 import java.util.Scanner;
 
+/*
+Created by Steve 6/19/2017 as prework for my Java boot camp with Grand Circus Detroit.
+ */
+
+
 public class Main {
 
     public static void main(String[] args) {
